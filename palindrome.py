@@ -1,0 +1,6 @@
+# Check the palindrome
+word = "madam"
+if word == word[: : -1]:
+  print("Palindrome:")
+else:
+  print("Not Palindrome:") 
